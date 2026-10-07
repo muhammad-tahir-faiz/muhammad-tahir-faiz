@@ -80,7 +80,7 @@ WordPress / WooCommerce website.
 
 ## 🤝 Let's Connect
 
-🌐 **Portfolio:** https://muhammad-tahir-faiz-portfolio.vercel.app
+🌐 **Portfolio:** https://muhammadtahirfaiz.online
 
 💼 **GitHub:** https://github.com/muhammad-tahir-faiz
 
